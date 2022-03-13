@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm Karan Churi</h1>
 <h3 align="center">Full stack dev from India</h3>
 
+[![MasterHead](https://github.com/karanchuri/karanchuri/blob/main/cover.gif?raw=true)](https://karanchuri.github.io)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanchuri&label=Profile%20views&color=0e75b6&style=flat" alt="karanchuri" /> </p>
+![alt text](https://github.com/karanchuri/karanchuri/blob/main/cover.gif?raw=true)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanchuri" alt="karanchuri" /></a> </p>
 
