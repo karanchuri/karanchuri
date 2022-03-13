@@ -1,6 +1,6 @@
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hi 👋, I'm Karan Churi</h1>
-<h3 align="center">Full stack dev from India</h3>
+<h3 align="center">Full stack dev from India 🇮🇳</h3>
 
 [![MasterHead](https://github.com/karanchuri/karanchuri/blob/main/cover.gif?raw=true)](https://karanchuri.github.io)
 
@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanchuri&show_icons=true&locale=en&layout=compact" alt="karanchuri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanchuri&show_icons=true&locale=en" alt="karanchuri" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=karanchuri&show_icons=true&locale=en" alt="karanchuri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanchuri&" alt="karanchuri" /></p>
